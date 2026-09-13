@@ -1,0 +1,5 @@
+curl -s https://api.github.com/repos/atharvaramesh/simple-interest-calculator | grep -E '"fork"|"full_name"'
+
+"full_name": "atharvaramesh/simple-interest-calculator",
+"fork": true,
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
