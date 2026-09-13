@@ -1,7 +1,8 @@
 # simple-interest-calculator
 
 
-This project calculates simple interest.
+
+This project calculates simple interest accurately 
 
 ## Formula
 
@@ -9,9 +10,9 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Inputs
 
-- Principal amount
-- Rate of interest
-- Time period
+* Principal amount
+* Rate of interest
+* Time period
 
 ## Example
 
@@ -24,3 +25,4 @@ Simple Interest = (1000 × 5 × 2) / 100 = 100
 ## Result
 
 The simple interest is 100.
+
